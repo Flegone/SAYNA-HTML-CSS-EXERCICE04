@@ -1,0 +1,223 @@
+@font-face{
+    font-family: spiderman;
+    src: url(font/far_from_homecoming/Far-From\ Homecoming\ Updated.otf);
+}
+
+header{
+    background-color:#B11313 ;
+    display: flex;
+    margin-top: -20px;
+    padding-left: 200px;
+    margin-left: -10px;
+    margin-right: -10px;
+    text-indent: 20px;
+    height: 75px;
+}
+.p1{
+    color: #FFFFFF;
+    padding-left: 300px;
+    display: flex;
+    padding-top: 20px;
+    text-indent: 70px;
+}
+h3{
+    margin-top: -500px;
+    color: #FFFFFF;
+    padding-left: 400px;  
+    padding-top: 300px;
+    font-family: spiderman;
+    
+}
+#tr{ margin-left: -10px;
+}
+.t1{
+    border-style: solid;
+    width: 120px;
+    height: 30px;
+    padding-left: 30px;
+    padding-top: 5px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+    color: #b11313;
+    margin-top: -300px;
+    margin-left: 100px;
+
+}
+.t2{
+    margin-left: 400px;
+    border: 1px ridge;
+    height: 30px;
+    width: 140px;
+    border-radius: 12px;
+    padding-left: 20px;
+    border-color: #FFFFFF;
+    padding-top: 6px;
+    margin-top: -50px;
+}
+.t3{
+    padding-left: 200px;
+    font-size: larger;
+    color: #FFFFFF;
+}
+.PD{
+    padding-top: 110px;
+    padding-left: 100px;
+}
+h4{
+    font-family: spiderman;
+    color: #FFFFFF;
+    width: 800px;
+    
+}
+.tre{
+    color: #FFFFFF;
+    font-size: smaller;
+    
+    
+}
+.po{
+    border-style: solid;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+    color: #b11313;
+    width: 140px;
+    height: 40px;
+    margin-left: 300px;
+    padding-right: 2px;
+    padding-left: -25px;
+    
+    
+}
+
+section{
+    background-color: #B11313;
+    margin-top: -50px;
+    margin-left: -8px;
+    margin-right: -8px;
+    display: flex;
+    height: 800px;
+}
+.GT{
+    display: flex;
+}
+.ht{
+    display: flex;
+    justify-content: space-between;
+    text-indent: 30px;
+    padding-top: 60px;
+}
+.p{
+    display: flex;
+    text-indent: 70px;
+    margin-left: 50px;
+    padding-left: 30px;
+}
+.r2{
+    padding-left: 250px;
+}
+.r3{
+    padding-left: 200px;
+}
+#tc{
+    margin-left: 30px;
+}   
+#ry{
+    margin-right: 10px;
+}
+.et{
+    background-color: #114c92 ;
+    margin-top: 113px;
+    width: 1430px;
+}
+.phras1{
+ color: #FFFFFF;
+ font-family: spiderman;
+ 
+
+}
+.phras2{
+    color: #FFFFFF;
+    
+}
+.type1{
+    padding-left: 1000px;
+    margin-top: -500px;
+}
+.inpu1{
+border-radius: 20px;
+width: 300px;
+text-indent: 7px;
+margin-left: -100px;
+height: 19px;
+}  
+.tse{
+  border: 1px solid;
+    width: 20px;
+    height: 20px;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 90px;
+    padding-bottom: 10px;
+    border-color: #FFFFFF;
+    border-radius: 16px;
+    color: #FFFFFF;
+    
+}
+
+.toi{ 
+   margin-top: -700px;
+    padding-left: 100px;
+
+}
+.lui{
+    font-family: spiderman;
+}
+.kl{
+    border: 1px solid;
+    border-radius: 20px; 
+    border-color: #FFFFFF;
+    width: 300px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 3px;  
+}
+.khj{
+    border: 1px solid;
+    border-radius: 20px; 
+    border-color: #FFFFFF;
+    width: 300px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+.gtr{
+    padding-top: 50px;
+}
+.bnr{
+    
+    border-style: solid;
+    width: 190px;
+    padding-left: 7px;
+    padding-top: 10px;
+    padding-right: 2px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    border-color: #FFFFFF;
+    color: #b11313;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
